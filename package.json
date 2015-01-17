@@ -1,0 +1,24 @@
+{
+  "name": "js-git-mongodb",
+  "version": "0.0.0",
+  "description": "JS-Git MongoDB backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eazel7/js-git-mongodb.git"
+  },
+  "author": "Diego Pérez <eazel7@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/eazel7/js-git-mongodb/issues"
+  },
+  "dependencies": {
+    "bodec": "^1.0.0",
+    "git-sha1": "^0.1.2",
+    "js-git": "^0.7.7",
+    "mongodb": "^1.4.28"
+  }
+}
